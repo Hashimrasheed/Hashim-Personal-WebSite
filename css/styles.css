@@ -10216,3 +10216,6 @@ form .row:first-child .floating-label-form-group {
 .page-section-heading {
   padding-top: 1.5rem;
 }
+.bg-contact{
+  background-color: rgba(65, 92, 118, 1);
+}
